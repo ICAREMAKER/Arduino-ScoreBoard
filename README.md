@@ -57,7 +57,6 @@ if (Result == 9) {NEUF(); score = -1;}
 delay(100);
 }
 ```
-
 ```C
 void ZERO()
 {
