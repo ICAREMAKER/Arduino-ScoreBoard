@@ -1,10 +1,13 @@
 # Arduino-ScoreBoard
 ### 1-PREVIEW
-![RobotCombat](https://github.com/ICAREMAKER/Arduino-ScoreBoard/assets/107696317/b2646e2e-f267-42b3-9fcb-4fe1898fc84d)
+![RobotCombat](https://github.com/ICAREMAKER/Arduino-ScoreBoard/assets/107696317/f64fd179-be0f-46e7-ade1-1af37b02e471)
 
-### 2-SCHEMA: Matrix Led 8x32
+
+### 2-SCHEMA: 
+#### °Matrix Led 8x32
 ![FHW95N6KXUER1LZ](https://github.com/ICAREMAKER/Arduino-ScoreBoard/assets/107696317/cd65d7c9-499a-4421-a1f4-f5df560be83a)
-
+#### °Boutons poussoirs
+![FTLF70JKXUER2GO](https://github.com/ICAREMAKER/Arduino-ScoreBoard/assets/107696317/124a0873-8fcb-49c7-80af-d8939f74ce9c)
 
 ### 3-CODE
 Vous devez installer la librairie: LedControl.h
