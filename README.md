@@ -2,10 +2,11 @@
 ### 1-PREVIEW
 ![RobotCombat](https://github.com/ICAREMAKER/Arduino-ScoreBoard/assets/107696317/b2646e2e-f267-42b3-9fcb-4fe1898fc84d)
 
-### 2-SCHEMA
-![schema](https://github.com/ICAREMAKER/arduino-Score-generator/assets/107696317/d0eff3cf-0f77-42f9-a0b9-bc7e6856204c)
+### 2-SCHEMA: Matrix Led 8x32
+![FHW95N6KXUER1LZ](https://github.com/ICAREMAKER/Arduino-ScoreBoard/assets/107696317/cd65d7c9-499a-4421-a1f4-f5df560be83a)
 
-### 2-CODE
+
+### 3-CODE
 Vous devez installer la librairie: LedControl.h
 ```C
 #include "LedControl.h"
