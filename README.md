@@ -1,6 +1,6 @@
 # Arduino-ScoreBoard
 ### 1-PREVIEW
-![400px-led_matrix00](https://github.com/ICAREMAKER/arduino-Score-generator/assets/107696317/0a8eda71-cd04-4aeb-acae-16910b9f7482)
+![RobotCombat](https://github.com/ICAREMAKER/Arduino-ScoreBoard/assets/107696317/b2646e2e-f267-42b3-9fcb-4fe1898fc84d)
 
 ### 2-SCHEMA
 ![schema](https://github.com/ICAREMAKER/arduino-Score-generator/assets/107696317/d0eff3cf-0f77-42f9-a0b9-bc7e6856204c)
